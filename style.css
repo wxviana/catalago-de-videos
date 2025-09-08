@@ -1,12 +1,12 @@
 body {
 color: white;
-background: black;
+background: rgba(18, 1, 123, 0.834);
 }
 header {
 border-bottom: solid 2px rgb(255, 255, 255);
 padding: 20px;
 font-size: 32px;
-color: rgb(42, 122, 228);
+color: rgb(255, 255, 255);
 }
 .chamada {
 background: rgb(184, 156, 213);
